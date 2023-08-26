@@ -20,8 +20,8 @@ When a user submits the image/video through the GUI:
 - The image/video path will be in the software documents folder that is created in the system document folder.
 - The ML algorithm processes the image/video and sends the corresponding tags/predictions result to the java client (ObjectDetection.py).
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1UUOcVtyJuQpr6f0ViBVLlRfAR9DOu8lU/view?usp=sharing))
-
+![alt text](https://github.com/wjb-23/LIVSE/blob/main/UML.jpg?raw=true)
+ 
 # Object Detection Models - PyTorch
 
 Image Recognition
